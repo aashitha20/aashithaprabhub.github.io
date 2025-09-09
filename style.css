@@ -11,7 +11,7 @@ body {
 /* Typography */
 h1, h2 {
     font-weight: 700;
-    color: #a7f3d0; /* A bright, vibrant color */
+    color: #f4b4ee; /* A bright, vibrant color */
 }
 
 /* Nav Bar */
@@ -38,7 +38,7 @@ nav {
 nav .logo {
     font-size: 1.5em;
     font-weight: bold;
-    color: #a7f3d0;
+    color: #f4b4ee;
 }
 
 nav ul {
@@ -54,7 +54,7 @@ nav ul a {
 }
 
 nav ul a:hover {
-    color: #a7f3d0;
+    color: #f4b4ee;
     transform: translateY(-2px); /* Subtle hover animation */
 }
 
@@ -74,7 +74,7 @@ nav ul a:hover {
 }
 
 .cta-button {
-    background-color: #a7f3d0;
+    background-color: #f4b4ee;
     color: #121212;
     padding: 12px 25px;
     text-decoration: none;
@@ -85,14 +85,14 @@ nav ul a:hover {
 
 .cta-button:hover {
     transform: scale(1.05);
-    box-shadow: 0 0 15px #a7f3d0;
+    box-shadow: 0 0 15px #f4b4ee;
 }
 
 .hero-image img {
     width: 200px;
     height: 200px;
     border-radius: 50%; /* Circular image */
-    border: 3px solid #a7f3d0;
+    border: 3px solid #f4b4ee;
     animation: pulse 2s infinite; /* A cool pulsating effect */
 }
 
@@ -141,4 +141,5 @@ nav ul a:hover {
         flex-direction: column;
         padding-top: 100px;
     }
+
 }
