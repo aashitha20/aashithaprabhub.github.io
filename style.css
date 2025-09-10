@@ -14,6 +14,10 @@ h1, h2 {
     font-weight: 700;
     color: #f4b4ee; /* A bright, vibrant color */
 }
+h1, h2, h3, .logo, .skill-card {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
 
 /* Nav Bar */
 header {
@@ -202,5 +206,6 @@ nav ul a:hover {
   transform: translateY(-5px) scale(1.05);
   box-shadow: 0 8px 20px rgba(244, 180, 238, 0.6);
 }
+
 
 
