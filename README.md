@@ -6,7 +6,7 @@ This website highlights my journey, interests, and the work I’ve built so far 
 ## 🔗 Live Demo: [https://github.com/aashitha20.github.io/aashithaprabhub.github.io](https://aashitha20.github.io/aashithaprabhub.github.io/)
 
 ## 📁 Project Structure
-.
+
 ├── index.html         # Home page
 
 ├── about.html         # About Me section
@@ -31,30 +31,48 @@ It maintains a consistent navigation bar across all pages and features smooth an
 ## 💫 Key Features
 
 🎨 Gen Z–inspired dark theme with gradients and neon accents
+
 🧭 Fixed navigation bar for smooth browsing
+
 💻 Dedicated pages for About, Skills, Education, Projects, and Contact
+
 📱 Responsive design — optimized for desktop and mobile
+
 ✨ Subtle animations and hover effects for an interactive feel
+
 💌 Integrated social links (Gmail, LinkedIn, GitHub)
 
 ## 🧩 Tech Stack
 
 Technology	Purpose
+
 HTML5	Structure and content
+
 CSS3	Styling and layout
+
 Google Fonts 
+
 GitHub Pages	Hosting and deployment
 
 ## 🚀 How to Run Locally
+
 If you’d like to view or modify the site on your local system:
+
 ## Clone the repository
+
 git clone https://github.com/aashitha20/aashithaprabhub.github.io.git
+
 ## Navigate into the project folder
+
 cd aashithaprabhub.github.io
+
 ## Open the index.html file in your browser
+
 You can open it directly by double-clicking index.html or running:
+
 start index.html    # For Windows
 open index.html     # For macOS
+
 ##📸 Preview
 <img width="1919" height="1079" alt="Screenshot 2025-09-15 211323" src="https://github.com/user-attachments/assets/d43fc946-9e78-4322-b34c-a4846284d5fe" />
 
