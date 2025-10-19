@@ -7,19 +7,19 @@ This website highlights my journey, interests, and the work I’ve built so far 
 
 ## 📁 Project Structure
 
-├── index.html         # Home page
+├── index.html           # Home page
 
-├── about.html         # About Me section
+├── about.html           # About Me section
 
-├── skills.html        # Technical skills overview
+├── skills.html          # Technical skills overview
 
-├── education.html     # Academic background
+├── education.html       # Academic background
 
-├── projects.html      # List of personal projects
+├── projects.html        # List of personal projects
 
-├── contact.html       # Contact and social links
+├── contact.html         # Contact and social links
 
-└── style.css          # Shared stylesheet across all 
+└── style.css            # Shared stylesheet across all 
 
 
 ## 🧠 Overview
@@ -58,30 +58,36 @@ GitHub Pages	Hosting and deployment
 
 If you’d like to view or modify the site on your local system:
 
-## Clone the repository
+### Clone the repository
 
 git clone https://github.com/aashitha20/aashithaprabhub.github.io.git
 
-## Navigate into the project folder
+### Navigate into the project folder
 
 cd aashithaprabhub.github.io
 
-## Open the index.html file in your browser
+### Open the index.html file in your browser
 
 You can open it directly by double-clicking index.html or running:
 
-start index.html    # For Windows
-open index.html     # For macOS
+start index.html      # For Windows
 
-##📸 Preview
+open index.html       # For macOS
+
+
+### 📸 Preview
 <img width="1919" height="1079" alt="Screenshot 2025-09-15 211323" src="https://github.com/user-attachments/assets/d43fc946-9e78-4322-b34c-a4846284d5fe" />
 
-##📬 Contact
+## 📬 Contact
+
 Feel free to connect or collaborate!
+
 📧 Email: prabhuaashitha@gmail.com
+
 💼 LinkedIn: linkedin.com/in/aashithaprabhub
+
 🧑‍💻 GitHub: github.com/aashitha20
 
-##🪄 Credits
+## 🪄 Credits
 Designed and developed with 💜 by Aashitha Prabhu B
 © 2025 — All rights reserved.
